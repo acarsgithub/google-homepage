@@ -1,0 +1,16 @@
+input {
+    width: 500px;
+    position: absolute;
+    left:725px;
+    top: 330px;
+    padding: 11px;
+    border-radius: 20px;
+    border-color: rgb(245, 235, 235);
+    
+}
+
+img {
+    position: absolute;
+    left: 850px;
+    top: 200px;
+}
